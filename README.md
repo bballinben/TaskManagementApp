@@ -1,5 +1,9 @@
 # Taskmanagementapp
 
+This application allows users to keep track of various tasks. Users can add and delete tasks when utilizing the application. 
+
+Bootstrap was used for styling the User Interface.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server
